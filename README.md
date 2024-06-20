@@ -17,8 +17,8 @@ that use the command option for button widgets.  This allows us to have
 the program execute specific code when the button is clicked.
 
 Some of the code that we will be executing today involves retrieving
-data from an Entry widget and doing something with it.  This is how
-our GUI will receive its input.  However, we will also need to produce
+data from an Entry widget and doing something with it.  This      is                  how                                     
+our GUI will receive its input.  However, we will also need to produce 
 output, so we will be using the Entry.insert() and Entry.delete()
 methods to help us update the contents of an Entry widget.
 
